@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>keycloak-21-connection</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>keycloak-integration</name>
 
@@ -74,6 +74,7 @@
     </dependencies>
 
     <build>
+        <finalName>keycloak-21-connection</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
