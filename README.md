@@ -1,4 +1,9 @@
 # Project for keycloak 21 integration
+##
+
+Keycloak server configuration used in this project is described on my blog:
+https://damiankumor.blogspot.com/2023/07/keycloak-dev-in-4-minutes-windows.html
+
 
 ## Unsecured endpoint can be requested with this <i>curl</i> command:
 ```bash
